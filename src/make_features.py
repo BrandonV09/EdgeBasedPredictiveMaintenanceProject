@@ -1,3 +1,6 @@
+
+#this is the feature extraction script for the CWRU data 
+
 print("RUNNING make_features.py v2 from:", __file__)
 
 # src/make_features.py  — minimal writer

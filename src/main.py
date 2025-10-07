@@ -1,3 +1,5 @@
+
+# this is the main script to load and visualize the CWRU  data
 # src/main.py
 from scipy.io import loadmat
 from glob import glob
